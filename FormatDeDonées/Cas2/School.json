@@ -1,0 +1,29 @@
+{
+    "school": {
+        "name": "HEI",
+        "creation": "2021",
+        "domain": "IT",
+        "nbStudents": "200",
+
+        "Students": [
+            {
+                "name": "Elodys",
+                "ref": "STD23077",
+                "group": {
+                    "name": "J2",
+                    "year": "2023",
+                    "level": "L1"
+                }
+            },
+            {
+                "name": "Rakoto",
+                "ref": "STD21022",
+                "group": {
+                "name": "A2",
+                "year": "2023",
+                "level": "L3"
+            }
+            }
+        ]
+    } 
+}

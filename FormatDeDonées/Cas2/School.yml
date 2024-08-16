@@ -1,0 +1,19 @@
+school:
+  name: HEI
+  start: 2021
+  domaine: IT
+  nbStudents: 200
+  Students: 
+    _ name: Elodys
+      ref: STD23077
+      group: 
+        name: J2
+        year: 2023
+        level: L1
+
+    _ name: Rakoto
+      ref: STD21022
+      group: 
+        name: A2
+        year: 2023
+        level: L3
